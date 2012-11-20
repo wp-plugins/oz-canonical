@@ -1,7 +1,7 @@
 === OZ Canonical ===
 Contributors: Andon
 Donate link: http://coffebreak.info/
-Tags: canonical
+Tags: canonical, canonicalization, google, seo, search engine optimization, seo-friendly, user-friendly 
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
