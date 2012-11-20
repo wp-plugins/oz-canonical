@@ -1,5 +1,5 @@
 === OZ Canonical ===
-Contributors: andon
+Contributors: Andon
 Donate link: http://coffebreak.info/
 Tags: canonical
 Requires at least: 3.0.1
