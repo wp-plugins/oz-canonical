@@ -26,7 +26,7 @@ The installation of OZ Canonical plugin is more than easy. You just need to foll
 == Frequently Asked Questions ==
 
 == Screenshots ==
-
+1. The OZ Canonical options screen, where you can add new canonical url for every page in your blog.
 == Changelog ==
 
 = 0.5 =
