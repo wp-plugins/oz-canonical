@@ -2,9 +2,11 @@
 Contributors: Andon
 Donate link: http://coffebreak.info/
 Tags: canonical, canonicalization, google, seo, search engine optimization, seo-friendly, user-friendly 
+Author URI: http://profiles.wordpress.org/Andon/
+Author: Andon Ivanov (Andon)
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 4.3
+Stable tag: 0.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,7 +26,7 @@ The installation of OZ Canonical plugin is more than easy. You just need to foll
 == Frequently Asked Questions ==
 
 == Screenshots ==
-
+1. The OZ Canonical options screen, where you can add new canonical url for every page in your blog.
 == Changelog ==
 
 = 0.5 =
